@@ -1,7 +1,5 @@
-# LG Aimers 온라인 채널 제품 판매량 예측 AI 온라인 해커톤
-2023-LG-Aimers-Online-Channel-product-sales-Prediction-Hackathon
-
-<br/>
+# LG Aimers 3th 
+### 온라인 채널 제품 판매량 예측 AI 개발
 
 ## 1. 배경 & 목적
 
